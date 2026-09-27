@@ -14,5 +14,9 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+<<<<<<< Updated upstream
 This project calculates simple interest.
 This project calculates simple interest.
+=======
+This project calculates simple inte rest.
+>>>>>>> Stashed changes
